@@ -1,0 +1,13 @@
+[
+ {"domain":"it","jd":"Build Python services.","title":"Software Developer","quote":"Built Python services.","label":"Python service development","category":"competency"},
+ {"domain":"healthcare","jd":"Patient care experience required.","title":"Registered Nurse","quote":"Provided direct patient care in an acute-care setting.","label":"Patient care","category":"competency"},
+ {"domain":"education","jd":"Classroom management required.","title":"Teacher","quote":"Maintained classroom routines.","label":"Classroom management","category":"responsibility"},
+ {"domain":"finance","jd":"Financial reporting required.","title":"Accountant","quote":"Prepared monthly financial reports.","label":"Financial reporting","category":"competency"},
+ {"domain":"sales","jd":"Manage customer relationships.","title":"Sales Representative","quote":"Maintained long-term client accounts.","label":"Customer relationship management","category":"responsibility"},
+ {"domain":"hr","jd":"Employee onboarding required.","title":"HR Coordinator","quote":"Coordinated new employee onboarding.","label":"Employee onboarding","category":"responsibility"},
+ {"domain":"marketing","jd":"Campaign management required.","title":"Marketing Specialist","quote":"Planned product launch campaigns.","label":"Campaign management","category":"competency"},
+ {"domain":"legal","jd":"Legal research required.","title":"Paralegal","quote":"Conducted legal research for case files.","label":"Legal research","category":"domain_knowledge"},
+ {"domain":"hospitality","jd":"Guest service required.","title":"Hotel Associate","quote":"Resolved guest requests.","label":"Guest service","category":"responsibility"},
+ {"domain":"trades","jd":"Electrical systems experience required.","title":"Electrician","quote":"Installed electrical systems.","label":"Electrical systems","category":"competency"},
+ {"domain":"administration","jd":"Office administration required.","title":"Administrative Assistant","quote":"Coordinated office records and schedules.","label":"Office administration","category":"competency"}
+]

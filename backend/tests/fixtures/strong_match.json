@@ -1,0 +1,18 @@
+{
+  "name": "strong_match",
+  "resume": {
+    "name": "Sample Candidate",
+    "title": "Senior Shopify Developer",
+    "summary": "Ecommerce developer with Shopify storefront and checkout optimization experience.",
+    "skills": ["Shopify", "JavaScript", "React"],
+    "experience": [{
+      "company": "Example Commerce",
+      "role": "Senior Shopify Developer",
+      "duration": "2018 - 2024",
+      "responsibilities": ["Built Shopify storefronts and optimized checkout performance."]
+    }],
+    "education": [],
+    "projects": []
+  },
+  "job_description": "Senior Shopify developer with 3+ years Shopify experience. JavaScript is required. React is preferred. Must build and optimize storefronts."
+}

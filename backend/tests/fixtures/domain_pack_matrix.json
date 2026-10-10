@@ -1,0 +1,14 @@
+[
+  {"domain":"healthcare","pack":"healthcare-core"},
+  {"domain":"education","pack":"education-core"},
+  {"domain":"finance_accounting","pack":"finance-core"},
+  {"domain":"sales","pack":"sales-core"},
+  {"domain":"hr","pack":"hr-core"},
+  {"domain":"marketing","pack":"marketing-core"},
+  {"domain":"design","pack":"design-core"},
+  {"domain":"engineering","pack":"engineering-core"},
+  {"domain":"hospitality","pack":"hospitality-core"},
+  {"domain":"legal","pack":"legal-core"},
+  {"domain":"customer_service","pack":"customer-service-core"},
+  {"domain":"skilled_trades","pack":"trades-core"}
+]

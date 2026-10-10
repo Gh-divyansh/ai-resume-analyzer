@@ -1,0 +1,18 @@
+{
+  "name": "seniority_mismatch",
+  "resume": {
+    "name": "Sample Candidate",
+    "title": "Junior Shopify Developer",
+    "summary": "Shopify developer with storefront implementation experience.",
+    "skills": ["Shopify", "JavaScript"],
+    "experience": [{
+      "company": "Example Commerce",
+      "role": "Junior Shopify Developer",
+      "duration": "2019 - 2024",
+      "responsibilities": ["Built Shopify storefront components."]
+    }],
+    "education": [],
+    "projects": []
+  },
+  "job_description": "Senior Shopify Developer. Shopify and JavaScript are required. Must build storefronts."
+}

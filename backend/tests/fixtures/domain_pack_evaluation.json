@@ -1,0 +1,14 @@
+[
+  {"domain":"healthcare","pack":"healthcare-core","skills":["patient care","clinical documentation"],"credential":"bls certification"},
+  {"domain":"education","pack":"education-core","skills":["lesson planning","classroom management"],"credential":"teaching license"},
+  {"domain":"finance_accounting","pack":"finance-core","skills":["financial reporting","reconciliation"],"credential":"cpa"},
+  {"domain":"sales","pack":"sales-core","skills":["client relationships","sales targets"],"credential":"salesforce certification"},
+  {"domain":"hr","pack":"hr-core","skills":["employee onboarding","employee relations"],"credential":"shrm-cp"},
+  {"domain":"marketing","pack":"marketing-core","skills":["marketing campaigns","market research"],"credential":"analytics certification"},
+  {"domain":"design","pack":"design-core","skills":["brand assets","visual design"],"credential":"adobe certification"},
+  {"domain":"engineering","pack":"engineering-core","skills":["construction drawings","site inspection"],"credential":"pe license"},
+  {"domain":"hospitality","pack":"hospitality-core","skills":["menu preparation","guest service"],"credential":"food safety certification"},
+  {"domain":"legal","pack":"legal-core","skills":["case files","legal research"],"credential":"bar admission"},
+  {"domain":"customer_service","pack":"customer-service-core","skills":["customer support","customer feedback"],"credential":"service certification"},
+  {"domain":"skilled_trades","pack":"trades-core","skills":["electrical systems","electrical safety"],"credential":"electrical license"}
+]

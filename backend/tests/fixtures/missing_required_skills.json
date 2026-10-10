@@ -1,0 +1,18 @@
+{
+  "name": "missing_required_skills",
+  "resume": {
+    "name": "Sample Candidate",
+    "title": "React Developer",
+    "summary": "Frontend developer with React experience.",
+    "skills": ["React"],
+    "experience": [{
+      "company": "Example Labs",
+      "role": "React Developer",
+      "duration": "2021 - 2024",
+      "responsibilities": ["Built React interfaces."]
+    }],
+    "education": [],
+    "projects": []
+  },
+  "job_description": "React and AWS are required. Figma is preferred. Must build user interfaces."
+}

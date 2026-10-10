@@ -1,0 +1,18 @@
+{
+  "name": "medium_match",
+  "resume": {
+    "name": "Sample Candidate",
+    "title": "React Developer",
+    "summary": "Frontend developer building web interfaces and integrations.",
+    "skills": ["React.js", "javascript", "Node.js", "REST APIs"],
+    "experience": [{
+      "company": "Example Labs",
+      "role": "React Developer",
+      "duration": "2021 - 2024",
+      "responsibilities": ["Built React interfaces and integrated REST APIs."]
+    }],
+    "education": [],
+    "projects": []
+  },
+  "job_description": "React Developer. React and JavaScript are required. TypeScript is preferred. Must build and integrate web interfaces."
+}

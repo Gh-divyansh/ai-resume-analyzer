@@ -1,0 +1,18 @@
+{
+  "name": "weak_match",
+  "resume": {
+    "name": "Sample Candidate",
+    "title": "Customer Support Associate",
+    "summary": "Customer support professional.",
+    "skills": ["Excel"],
+    "experience": [{
+      "company": "Example Services",
+      "role": "Customer Support Associate",
+      "duration": "2021 - 2024",
+      "responsibilities": ["Supported customer questions."]
+    }],
+    "education": [],
+    "projects": []
+  },
+  "job_description": "Senior Backend Developer. Python, FastAPI, and AWS are required. Must build and deploy APIs."
+}

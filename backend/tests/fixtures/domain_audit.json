@@ -1,0 +1,77 @@
+[
+  {
+    "domain": "Software Developer", "alignment": "strong",
+    "resume": {"name": "Sample", "title": "Backend Developer", "summary": "Backend developer building APIs.", "skills": ["Python", "FastAPI", "SQL", "Docker"], "experience": [{"company": "Example Tech", "role": "Backend Developer", "duration": "2020 - 2024", "responsibilities": ["Built FastAPI REST APIs and deployed Docker services."]}], "education": [], "projects": [{"name": "API Platform", "description": "Built a Python API service."}]},
+    "job_description": "Backend Developer. Python, FastAPI, SQL, and Docker are required. Must build and deploy APIs."
+  },
+  {
+    "domain": "Shopify Developer", "alignment": "strong",
+    "resume": {"name": "Sample", "title": "Shopify Developer", "summary": "Ecommerce developer.", "skills": ["Shopify", "JavaScript", "React"], "experience": [{"company": "Example Commerce", "role": "Shopify Developer", "duration": "2020 - 2024", "responsibilities": ["Built and customized Shopify themes."]}], "education": [], "projects": []},
+    "job_description": "Shopify Developer. Shopify and JavaScript are required. Must build ecommerce storefronts."
+  },
+  {
+    "domain": "Registered Nurse", "alignment": "strong",
+    "resume": {"name": "Sample", "title": "Registered Nurse", "summary": "Registered nurse providing inpatient care.", "skills": ["Patient care", "Medication administration", "Clinical documentation"], "experience": [{"company": "Example Hospital", "role": "Registered Nurse", "duration": "2020 - 2024", "responsibilities": ["Administered medications and monitored patient recovery."]}], "education": [{"degree": "BSN", "institution": "Example University", "duration": "2016 - 2020"}], "projects": []},
+    "job_description": "Registered Nurse. Provide patient care, administer medications, document clinical observations, and monitor recovery."
+  },
+  {
+    "domain": "Teacher", "alignment": "strong",
+    "resume": {"name": "Sample", "title": "Secondary School Teacher", "summary": "Teacher supporting student learning.", "skills": ["Lesson planning", "Student assessment", "Classroom management"], "experience": [{"company": "Example School", "role": "Teacher", "duration": "2019 - 2024", "responsibilities": ["Developed lesson plans and assessed student progress."]}], "education": [{"degree": "BEd", "institution": "Example College", "duration": "2015 - 2019"}], "projects": []},
+    "job_description": "Teacher. Develop lesson plans, assess student progress, and manage a classroom."
+  },
+  {
+    "domain": "Accountant", "alignment": "strong",
+    "resume": {"name": "Sample", "title": "Accountant", "summary": "Accountant preparing financial records.", "skills": ["Financial reporting", "Reconciliation", "Bookkeeping"], "experience": [{"company": "Example Finance", "role": "Accountant", "duration": "2019 - 2024", "responsibilities": ["Prepared monthly financial reports and reconciled accounts."]}], "education": [{"degree": "BCom", "institution": "Example University", "duration": "2015 - 2018"}], "projects": []},
+    "job_description": "Accountant. Prepare financial reports, reconcile accounts, and maintain accurate records."
+  },
+  {
+    "domain": "Marketing Manager", "alignment": "medium",
+    "resume": {"name": "Sample", "title": "Marketing Manager", "summary": "Marketing manager leading campaigns.", "skills": ["Campaign management", "Content strategy", "Brand management"], "experience": [{"company": "Example Brand", "role": "Marketing Manager", "duration": "2019 - 2024", "responsibilities": ["Managed marketing campaigns and analyzed campaign performance."]}], "education": [], "projects": []},
+    "job_description": "Marketing Manager. Lead marketing campaigns, develop content strategy, manage brand activity, and measure campaign performance."
+  },
+  {
+    "domain": "Sales Manager", "alignment": "strong",
+    "resume": {"name": "Sample", "title": "Sales Manager", "summary": "Sales leader managing client relationships.", "skills": ["Sales strategy", "Client relationships", "Team leadership"], "experience": [{"company": "Example Sales", "role": "Sales Manager", "duration": "2018 - 2024", "responsibilities": ["Managed client relationships and exceeded quarterly sales targets."]}], "education": [], "projects": []},
+    "job_description": "Sales Manager. Lead sales activity, manage client relationships, and achieve quarterly targets."
+  },
+  {
+    "domain": "HR Manager", "alignment": "medium",
+    "resume": {"name": "Sample", "title": "HR Manager", "summary": "Human resources manager.", "skills": ["Recruiting", "Employee relations", "Policy administration"], "experience": [{"company": "Example Services", "role": "HR Manager", "duration": "2019 - 2024", "responsibilities": ["Managed recruiting processes and supported employee relations."]}], "education": [], "projects": []},
+    "job_description": "HR Manager. Lead recruiting, manage employee relations, and maintain HR policies."
+  },
+  {
+    "domain": "Graphic/UI Designer", "alignment": "medium",
+    "resume": {"name": "Sample", "title": "Graphic Designer", "summary": "Designer creating brand and interface work.", "skills": ["Figma", "Brand design", "Typography"], "experience": [{"company": "Example Studio", "role": "Graphic Designer", "duration": "2020 - 2024", "responsibilities": ["Designed brand assets and user interface concepts in Figma."]}], "education": [], "projects": [{"name": "Brand refresh", "description": "Created a visual identity system."}]},
+    "job_description": "UI Designer. Figma is required. Design user interfaces, create visual assets, and collaborate with product teams."
+  },
+  {
+    "domain": "Project Manager", "alignment": "medium",
+    "resume": {"name": "Sample", "title": "Project Manager", "summary": "Project manager coordinating delivery.", "skills": ["Project planning", "Stakeholder management", "Risk management"], "experience": [{"company": "Example Operations", "role": "Project Manager", "duration": "2018 - 2024", "responsibilities": ["Coordinated project plans and communicated with stakeholders."]}], "education": [], "projects": []},
+    "job_description": "Project Manager. Lead project delivery, coordinate stakeholders, manage risks, and maintain project plans."
+  },
+  {
+    "domain": "Civil Engineer", "alignment": "medium",
+    "resume": {"name": "Sample", "title": "Civil Engineer", "summary": "Civil engineer supporting construction projects.", "skills": ["Site inspection", "Construction drawings", "Safety compliance"], "experience": [{"company": "Example Construction", "role": "Civil Engineer", "duration": "2018 - 2024", "responsibilities": ["Reviewed construction drawings and monitored site safety."]}], "education": [{"degree": "BEng Civil Engineering", "institution": "Example Institute", "duration": "2014 - 2018"}], "projects": []},
+    "job_description": "Civil Engineer. Review construction drawings, inspect sites, coordinate contractors, and maintain safety compliance."
+  },
+  {
+    "domain": "Chef", "alignment": "strong",
+    "resume": {"name": "Sample", "title": "Chef", "summary": "Chef managing kitchen service.", "skills": ["Menu planning", "Food safety", "Kitchen operations"], "experience": [{"company": "Example Hotel", "role": "Chef", "duration": "2018 - 2024", "responsibilities": ["Managed kitchen operations and prepared daily menus."]}], "education": [], "projects": []},
+    "job_description": "Chef. Manage kitchen operations, prepare menus, maintain food safety, and lead kitchen staff."
+  },
+  {
+    "domain": "Lawyer", "alignment": "medium",
+    "resume": {"name": "Sample", "title": "Attorney", "summary": "Attorney advising clients on legal matters.", "skills": ["Legal research", "Contract drafting", "Client counseling"], "experience": [{"company": "Example Law", "role": "Attorney", "duration": "2017 - 2024", "responsibilities": ["Drafted contracts and advised clients on legal matters."]}], "education": [{"degree": "JD", "institution": "Example Law School", "duration": "2014 - 2017"}], "projects": []},
+    "job_description": "Attorney. Draft contracts, research legal issues, advise clients, and manage case documentation."
+  },
+  {
+    "domain": "Customer Service Professional", "alignment": "medium",
+    "resume": {"name": "Sample", "title": "Customer Service Representative", "summary": "Customer service professional resolving client issues.", "skills": ["Customer support", "Issue resolution", "Communication"], "experience": [{"company": "Example Support", "role": "Customer Service Representative", "duration": "2020 - 2024", "responsibilities": ["Supported customers and resolved account issues."]}], "education": [], "projects": []},
+    "job_description": "Customer Service Representative. Support customers, resolve account issues, document interactions, and maintain service quality."
+  },
+  {
+    "domain": "Electrician", "alignment": "weak",
+    "resume": {"name": "Sample", "title": "Electrician", "summary": "Licensed electrician performing installation work.", "skills": ["Electrical installation", "Wiring", "Safety procedures"], "experience": [{"company": "Example Electrical", "role": "Electrician", "duration": "2019 - 2024", "responsibilities": ["Installed wiring and inspected electrical systems."]}], "education": [], "projects": []},
+    "job_description": "Electrician. Install wiring, inspect electrical systems, diagnose faults, and follow safety procedures."
+  }
+]
